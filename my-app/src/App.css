@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+
+
+.App-header {
+  background-image: url('./img/hot-baloons.jpg');
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+ 
+  font-size: calc(10px + 2vmin);
+  color: #003b4d;
+}
+h3 {
+  color:  #800000;
+}
+
